@@ -7,3 +7,7 @@
 ## Run API:
 
     uvicorn bio_api.main:app --reload
+
+## Run Jupyter:
+
+    jupyter notebook
