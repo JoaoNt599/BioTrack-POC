@@ -1,0 +1,11 @@
+especie,tipo,localizacao,data_hora,temperatura,umidade,observador
+Sabiá-laranjeira,ave,Parque da Cidade - Niterói,2025-10-02T07:30:00,25.4,68,João Costa
+Ipê-amarelo,planta,Parque da Cidade - Niterói,2025-10-02T09:15:00,27.1,63,Ana Souza
+Borboleta-azul,inseto,Parque da Cidade - Niterói,2025-10-02T10:45:00,28.0,70,Marcos Lima
+Sabiá-laranjeira,ave,Jardim Botânico - Rio de Janeiro,2025-10-03T08:10:00,26.3,74,João Costa
+Ipê-amarelo,planta,Jardim Botânico - Rio de Janeiro,2025-10-03T11:00:00,29.2,60,Ana Souza
+Borboleta-azul,inseto,Floresta da Tijuca - Rio de Janeiro,2025-10-03T09:40:00,24.7,82,Marcos Lima
+Grilo-verde,inseto,Parque Lage - Rio de Janeiro,2025-10-03T18:20:00,23.8,88,Larissa Torres
+Sabiá-laranjeira,ave,Parque Nacional da Serra dos Órgãos,2025-10-04T06:40:00,22.0,91,João Costa
+Ipê-amarelo,planta,Parque Nacional da Serra dos Órgãos,2025-10-04T14:15:00,30.5,55,Ana Souza
+Borboleta-azul,inseto,Jardim Botânico - São Paulo,2025-10-05T09:30:00,25.8,73,Marcos Lima

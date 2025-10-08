@@ -8,6 +8,10 @@
 
     uvicorn bio_api.main:app --reload
 
+## Import CSV:
+
+    & curl.exe -X POST "http://127.0.0.1:8000/import" -F "file=@observacoes.csv"
+
 ## Run Jupyter:
 
     jupyter notebook
