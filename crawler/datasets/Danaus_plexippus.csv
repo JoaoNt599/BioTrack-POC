@@ -1,0 +1,16 @@
+especie,tipo,localizacao,data_hora,condicoes,observador
+Danaus plexippus,Animalia,"Kambah, ACT",2025-01-01T00:56,"{'latitude': -35.461684, 'longitude': 148.912365}",SandraH
+Danaus plexippus,Animalia,"Robertson, NSW",2025-01-01T02:28:24,"{'latitude': -34.584518, 'longitude': 150.603839}",PaperbarkNativeBees
+Danaus plexippus,Animalia,"Braidwood, NSW",2025-01-03T23:17,"{'latitude': -35.45465, 'longitude': 149.79216}",MatthewFrawley
+Danaus plexippus,Animalia,Gran Canaria - Ciudad de Las Palmas,2025-01-01,"{'latitude': 28.102822, 'longitude': -15.416422}",User 243369
+Danaus plexippus,Animalia,Gran Canaria - Agaete,2025-01-05,"{'latitude': 28.102233, 'longitude': -15.712013}",User 765599
+Danaus plexippus,Animalia,Gran Canaria - Pino Santo,2025-01-03,"{'latitude': 28.062942, 'longitude': -15.462893}",User 152144
+Danaus plexippus,Animalia,Ciudad de Málaga,2025-01-01,"{'latitude': 36.650235, 'longitude': -4.472306}",User 142761
+Danaus plexippus,Animalia,Ciudad de Málaga,2025-01-01,"{'latitude': 36.650202, 'longitude': -4.472459}",User 142761
+Danaus plexippus,Animalia,Saba - Windward Side,2025-01-05,"{'latitude': 17.628815, 'longitude': -63.232273}",User 125780
+Danaus plexippus,Animalia,Orleans (LA),2025-01-02,"{'latitude': 29.920913, 'longitude': -90.084717}",User 997032
+Danaus plexippus,Animalia,Gran Canaria - Pino Santo,2025-01-03,"{'latitude': 28.0645, 'longitude': -15.462413}",User 243369
+Danaus plexippus,Animalia,Gran Canaria - Pino Santo,2025-01-03,"{'latitude': 28.063456, 'longitude': -15.462267}",User 152144
+Danaus plexippus,Animalia,Madeira,2025-01-03,"{'latitude': 32.67892, 'longitude': -17.088544}",User 55732
+Danaus plexippus,Animalia,Balsa de los Alares y Manchita amarilla - Fuerteventura,2025-01-05,"{'latitude': 28.377321, 'longitude': -13.928201}",User 94760
+Danaus plexippus,Animalia,not informed,2025-01-06T20:30,"{'latitude': 37.890867, 'longitude': -122.291781}",caterpillarscount
